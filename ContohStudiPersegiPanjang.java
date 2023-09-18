@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ContohStudiKasus1 {
+public class ContohStudiPersegiPanjang {
    public static void main(String[] args) {
 
       Scanner sc =new Scanner(System.in);

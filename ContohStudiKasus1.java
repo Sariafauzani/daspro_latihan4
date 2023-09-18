@@ -16,9 +16,8 @@ public class ContohStudiKasus1 {
       lebar = sc.nextInt();
 
       luas = panjang * lebar;
-      keliling = 2 * (panjang + lebar);
-
       System.out.println("Hasil luas: " + luas);
+      keliling = 2 * (panjang + lebar);
       System.out.println("Hasil keliling: " + keliling);
 }
     

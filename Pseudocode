@@ -1,0 +1,79 @@
+Studi kasus 1
+Algoritma : hitung_luas_keliling_persegi panjang
+{dibaca Panjang dan lebar dari piranti masukan. Hitunglah luas dan keliling persegi panjang}!
+
+Deklarasi :
+panjang, lebar, luas, keliling : int
+
+Deskripsi :
+read panjang
+read lebar
+luas = panjang *lebar
+keliling = 2*(panjang + lebar)
+print luas
+print keliling
+
+Pseudocode Lingkaran
+Algoritma : hitung_luas_keliling_lingkaran
+{dibaca phi dan jari-jari dari piranti masukan. Hitunglah luas dan keliling lingkaran}!
+
+Deklarasi :
+phi, jari-jari : int, double
+
+Deskripsi :
+read phi 
+read jari=jari
+luas = phi * r * r
+keliling = 2 * r * r 
+print luas
+print keliling
+
+Pseudocode Segitiga Siku-Siku
+Algoritma : hitung_luas_keliling_segitiga siku-siku
+{dibaca alas, tinggi dan sisi dari piranti masukan. Hitunglah luas dan keliling lingkaran}!
+
+Deklarasi : 
+alas, tinggi, sisi : int
+
+Deskripsi :
+read alas
+read tinggi 
+read sisi_a
+read sisi_b
+read sisi_c
+luas = alas * tinggi /2
+keliling = sisi_a + sisi_b + sisi_c
+print luas 
+print keliling 
+
+Pseudocode Segitiga sama kaki
+Algoritma : hitung_luas_keliling_segitiga sama kaki
+{dibaca alas, tinggi dan sisi dari piranti masukan. Hitunglah luas dan keliling segitiga sama kaki}!
+
+Deklarasi :
+alas, tinggi, sisi : int 
+
+Deskripsi :
+read alas 
+read tinggi 
+read sisi 
+luas = alas * tinggi /2 
+keliling = 3 * sisi
+print luas 
+print keliling 
+
+Pseudocode segitiga sama sisi 
+Algoritma : hitung_luas_keliling_segitiga sama sisi 
+{dibaca alas, tinggi dan sisi dari piranti masukan. Hitunglah luas dan keliling segitiga sama sisi}! 
+
+Deklarasi : 
+alas, tinggi, sisi : int 
+
+Deskripsi : 
+read alas 
+read tinggi 
+read sisi 
+luas = alas * tinggi /2
+keliling = 3 * sisi 
+print luas 
+print keliling 

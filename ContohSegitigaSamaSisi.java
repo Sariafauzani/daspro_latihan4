@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ContohSegitigaSamaKaki {
+public class ContohSegitigaSamaSisi {
     public static void main(String[] args) {
         
         Scanner sc =new Scanner(System.in);
@@ -19,7 +19,7 @@ public class ContohSegitigaSamaKaki {
         luas = alas * tinggi/2;
         System.out.println("Hasil luas: " + luas);
 
-        System.out.println("Masukkan sisi: ");
+        System.out.println("Masukkan sisi miring: ");
         sisi = sc.nextInt();
 
         keliling = 3 * sisi;

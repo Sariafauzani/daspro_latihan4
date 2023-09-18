@@ -11,6 +11,7 @@ Sintak dikelompokkan menjadi 6 yaitu:
 4. Store (Initialize/set, =, Save/store)
 5. Compare (IF, THEN, ELSE)
 6. Loop (DOWHILE, ENDDO)
+-
 **Flowchart**
  merupakan sebuah bagan dengan simbol-simbol tertentu yang digunakan untuk menjelaskan urutan proses dan hubungan antar proses lainnya pada sebuah program. 
 Ada 2 macam Flowchart :
